@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  Telephone
 //
-//  Created by d.bondarenko on 12.02.2022.
 //
 
 import UIKit
